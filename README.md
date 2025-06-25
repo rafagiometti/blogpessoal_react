@@ -8,12 +8,12 @@
 <br /> 
 
 <div align="center">   
-    <img src="https://img.shields.io/github/languages/top/rafaelq80/blogpessoal_react_t82?style=flat-square" />
-    <img src="https://img.shields.io/github/repo-size/rafaelq80/blogpessoal_react_t82?style=flat-square" />   
-     <img src="https://img.shields.io/github/languages/count/rafaelq80/blogpessoal_react_t82?style=flat-square" />
-    <img src="https://img.shields.io/github/last-commit/rafaelq80/blogpessoal_react_t82?style=flat-square" />
-    <img src="https://img.shields.io/github/issues/rafaelq80/blogpessoal_react_t82?style=flat-square" />
-  <img src="https://img.shields.io/github/issues-pr/rafaelq80/blogpessoal_react_t82?style=flat-square" />
+    <img src="https://img.shields.io/github/languages/top/rafagiometti/blogpessoal_react?style=flat-square" />
+    <img src="https://img.shields.io/github/repo-size/rafagiometti/blogpessoal_react?style=flat-square" />   
+     <img src="https://img.shields.io/github/languages/count/rafagiometti/blogpessoal_react?style=flat-square" />
+    <img src="https://img.shields.io/github/last-commit/rafagiometti/blogpessoal_react?style=flat-square" />
+    <img src="https://img.shields.io/github/issues/rafagiometti/blogpessoal_react?style=flat-square" />
+  <img src="https://img.shields.io/github/issues-pr/rafagiometti/blogpessoal_react?style=flat-square" />
     <img src="https://img.shields.io/badge/status-em%20desenvolvimento-yellow?style=flat-square" /> 
 </div>
 
@@ -71,7 +71,7 @@ Antes de iniciar o projeto, certifique-se de ter instalado:
 - [Yarn](https://yarnpkg.com/)
 - [Git](https://git-scm.com/)
 - [Visual Studio Code](https://code.visualstudio.com/) ou outro editor
-- Backend - Spring ([Repositório da API](https://github.com/rafaelq80/blogpessoal_spring_t82))
+- Backend - Spring ([Repositório da API](https://github.com/rafagiometti/blogpessoal_react.git))
 
 <br />
 
@@ -80,13 +80,13 @@ Antes de iniciar o projeto, certifique-se de ter instalado:
 1. **Clone o repositório:**
 
 ```bash
-git clone https://github.com/rafaelq80/blogpessoal_react_t82.git
+git clone https://github.com/rafagiometti/blogpessoal_react.git
 ```
 
 2. **Acesse a pasta do projeto:**
 
 ```bash
-cd blogpessoal_react_t82
+cd blogpessoal_react
 ```
 
 3. **Instale as dependências:**
@@ -114,7 +114,7 @@ http://localhost:5173
 
 A aplicação se comunica com a API do projeto:
 
-🔗 [Blog Pessoal - Backend Spring Boot](https://github.com/rafaelq80/blogpessoal_spring_t82)
+🔗 [Blog Pessoal - Backend Spring Boot](https://github.com/rafagiometti/blogpessoal_react)
 
 > A URL base da API deve ser configurada (ex: `http://localhost:8080`) em um arquivo de configuração, como `.env`, ou diretamente nos serviços do Axios.
 
@@ -167,6 +167,5 @@ Se você encontrou algum problema ou deseja propor melhorias:
 
 ## 10. Contato
 
-Desenvolvido por [**Rafael**](https://github.com/rafaelq80)
+Desenvolvido por [**Rafaela**](https://github.com/rafagiometti)
 Dúvidas ou sugestões? Entre em contato pelo GitHub ou abra uma issue no repositório.
-
